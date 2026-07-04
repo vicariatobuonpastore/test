@@ -2,7 +2,7 @@
   "@context": "http://iiif.io/api/presentation/3/context.json",
   "id": "https://raw.githubusercontent.com/vicariatobuonpastore/test/refs/heads/main/manifest",
   "type": "Manifest",
-  "label": { "en": ["ETH Opencast test video"] },
+  "label": { "en": ["Opencast test video"] },
   "items": [
     {
       "id": "https://raw.githubusercontent.com/vicariatobuonpastore/test/refs/heads/main/manifest/canvas/1",
