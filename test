@@ -2,22 +2,22 @@
   "@context": "http://iiif.io/api/presentation/3/context.json",
   "id": "https://raw.githubusercontent.com/vicariatobuonpastore/test/refs/heads/main/test",
   "type": "Manifest",
-  "label": { "en": ["ETH Opencast test video 45067d2a"] },
+  "label": { "en": ["ETH Opencast test video"] },
   "items": [
     {
-      "id": "https://example.org/iiif/eth-opencast-45067d2a/canvas/1",
+      "id": "https://raw.githubusercontent.com/vicariatobuonpastore/test/refs/heads/main/test/canvas/1",
       "type": "Canvas",
       "duration": 3000,
       "items": [
         {
-          "id": "https://example.org/iiif/eth-opencast-45067d2a/canvas/1/page",
+          "id": "https://raw.githubusercontent.com/vicariatobuonpastore/test/refs/heads/main/test/canvas/1/page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://example.org/iiif/eth-opencast-45067d2a/canvas/1/page/annotation",
+              "id": "https://raw.githubusercontent.com/vicariatobuonpastore/test/refs/heads/main/test/canvas/1/page/annotation",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://example.org/iiif/eth-opencast-45067d2a/canvas/1",
+              "target": "https://raw.githubusercontent.com/vicariatobuonpastore/test/refs/heads/main/test/canvas/1",
               "body": {
                 "id": "https://tobira-test-oc.ethz.ch/static/mh_default_org/engage-player/66e4284b-c556-4587-ab90-1d6dc2b4df11/4c0e2281-8c2b-43e3-b973-b11bfff06078/45067d2a-90c3-4f64-a294-71127cb0f94b.mp4",
                 "type": "Video",
